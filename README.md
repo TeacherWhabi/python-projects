@@ -3,4 +3,4 @@
 ## Installation 
 run 'python install -r requirements.txt'
 
-[cv.docx](https://github.com/TeacherWhabi/python-projects/files/6247793/cv.docx)
+![cv](https://user-images.githubusercontent.com/81559269/113382776-8d58d800-93ac-11eb-8788-6dffc0075ddf.jpg)

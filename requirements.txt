@@ -1,0 +1,7 @@
+python-docx==0.8.10
+pyttsx3==2.90
+
+# To share this app
+# people can download it
+# and then run in a Terminal:
+# pip3 install -r requirements.txt
